@@ -1,0 +1,57 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1500" height="500" fill="#0d1117"/>
+
+  <!-- Grid lines -->
+  <g stroke="#1a2332" stroke-width="1">
+    <line x1="0" y1="83" x2="1500" y2="83"/>
+    <line x1="0" y1="166" x2="1500" y2="166"/>
+    <line x1="0" y1="249" x2="1500" y2="249"/>
+    <line x1="0" y1="332" x2="1500" y2="332"/>
+    <line x1="0" y1="415" x2="1500" y2="415"/>
+    <line x1="166" y1="0" x2="166" y2="500"/>
+    <line x1="332" y1="0" x2="332" y2="500"/>
+    <line x1="498" y1="0" x2="498" y2="500"/>
+    <line x1="664" y1="0" x2="664" y2="500"/>
+    <line x1="830" y1="0" x2="830" y2="500"/>
+    <line x1="996" y1="0" x2="996" y2="500"/>
+    <line x1="1162" y1="0" x2="1162" y2="500"/>
+    <line x1="1328" y1="0" x2="1328" y2="500"/>
+  </g>
+
+  <!-- Left decorations -->
+  <circle cx="90" cy="110" r="50" fill="none" stroke="#58a6ff" stroke-width="3" opacity="0.5"/>
+  <circle cx="90" cy="110" r="28" fill="#58a6ff" opacity="0.08"/>
+  <circle cx="60" cy="390" r="32" fill="none" stroke="#3fb950" stroke-width="2" opacity="0.4"/>
+  <circle cx="130" cy="430" r="16" fill="#3fb950" opacity="0.12"/>
+
+  <!-- Right decorations -->
+  <rect x="1370" y="60" width="62" height="62" rx="8" fill="none" stroke="#f78166" stroke-width="3" opacity="0.5"/>
+  <rect x="1388" y="78" width="26" height="26" rx="4" fill="#f78166" opacity="0.18"/>
+  <circle cx="1430" cy="380" r="40" fill="none" stroke="#d2a8ff" stroke-width="2" opacity="0.4"/>
+  <circle cx="1430" cy="380" r="20" fill="#d2a8ff" opacity="0.08"/>
+
+  <!-- Corner brackets -->
+  <path d="M 120 50 L 60 50 L 60 110" fill="none" stroke="#58a6ff" stroke-width="3" opacity="0.7"/>
+  <path d="M 1380 450 L 1440 450 L 1440 390" fill="none" stroke="#3fb950" stroke-width="3" opacity="0.7"/>
+
+  <!-- Terminal prompt -->
+  <text x="750" y="158" text-anchor="middle" font-family="'Courier New', monospace" font-size="28" fill="#3fb950" opacity="0.85">~/palakgrg09 $  whoami</text>
+
+  <!-- Main name -->
+  <text x="750" y="278" text-anchor="middle" font-family="'Courier New', monospace" font-size="92" font-weight="700" fill="#ffffff" letter-spacing="10">PALAK GARG</text>
+
+  <!-- Underline accent -->
+  <rect x="480" y="296" width="540" height="4" rx="2" fill="#58a6ff" opacity="0.85"/>
+
+  <!-- Subtitle -->
+  <text x="750" y="352" text-anchor="middle" font-family="'Courier New', monospace" font-size="28" fill="#8b949e" letter-spacing="2">Cybersecurity  |  Penetration Testing  |  Ethical Hacking</text>
+
+  <!-- Tagline -->
+  <text x="750" y="425" text-anchor="middle" font-family="'Courier New', monospace" font-size="26" fill="#8b949e" letter-spacing="3">CS Student  ·  Problem Solver  ·  Builder</text>
+
+  <!-- Dot accents -->
+  <circle cx="220" cy="250" r="6" fill="#58a6ff" opacity="0.4"/>
+  <circle cx="1280" cy="250" r="6" fill="#3fb950" opacity="0.4"/>
+  <circle cx="240" cy="278" r="4" fill="#58a6ff" opacity="0.25"/>
+  <circle cx="1260" cy="278" r="4" fill="#3fb950" opacity="0.25"/>
+</svg>
