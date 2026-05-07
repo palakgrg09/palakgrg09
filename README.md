@@ -9,7 +9,7 @@
 <div align="center">
 
 ### Hey there! I'm **Palak Garg**
-##### CS Student | Problem Solver | Builder
+##### somewhere between hello world and changing it
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palak-garg-7b9a37284)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/palakgrg09)
@@ -20,22 +20,15 @@
 
 ### 🧠 About Me
 
-I'm **Palak**, a CS student who loves building things, solving problems, and exploring new technologies.
+I'm **Palak**, a Computer Science student who builds things with Python — from automation scripts to data tools to security utilities — and is always looking for the next problem worth solving.
 
-- 🚀 Passionate about writing clean, efficient code
-- 🌱 Always learning something new
-- 💡 Interested in turning ideas into real projects
-- 🤝 Open to collaborations and interesting opportunities
+- 💻 Proficient in Python with hands-on project experience
+- 📊 Exploring data analysis, automation, and scripting
+- 🔐 Working with security concepts, log analysis & vulnerability scanning
+- 🔧 Focused on writing clean, maintainable code
+- 🌱 Continuously expanding my technical skill set
+- 🤝 Open to collaborations, internships, and opportunities
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/palak-garg-7b9a37284)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🔍 [log_analyzer](https://github.com/palakgrg09/log_analyzer) | Analyzes system logs to detect anomalies and patterns | Python |
-| 🌐 [network_vulnerability_scanner](https://github.com/palakgrg09/network_vulnerability_scanner) | Port scanning & risk analysis tool | Python |
 
 ---
 
@@ -48,6 +41,10 @@ I'm **Palak**, a CS student who loves building things, solving problems, and exp
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
