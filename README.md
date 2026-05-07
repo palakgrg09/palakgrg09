@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<!-- BANNER: Upload your banner image to the repo and update the path below -->
-<!-- You can create one at canva.com (1500x500px, dark theme with your name) -->
 ![Banner](./banner.png)
 
 </div>
