@@ -9,7 +9,7 @@
 <div align="center">
 
 ### Hey there! I'm **Palak Garg**
-##### somewhere between hello world and changing it
+##### Somewhere between hello world and changing it!!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palak-garg-7b9a37284)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/palakgrg09)
